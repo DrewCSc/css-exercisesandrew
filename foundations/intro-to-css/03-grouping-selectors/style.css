@@ -4,3 +4,10 @@
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
 }
+.alerted-button {
+    background-color: yellow;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    background-size:contain
+}
