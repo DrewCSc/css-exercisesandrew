@@ -1,1 +1,6 @@
-/* Add CSS Styling */
+.alert-button {
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}

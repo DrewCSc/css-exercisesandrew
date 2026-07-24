@@ -6,7 +6,7 @@
 .title.special {
     font-color: white;
     background-color: pink;
-    font-weight: bolder;
+    font-weight: bold;
 }
 #header {
     color: blue;
@@ -14,5 +14,5 @@
 #title {
     background-color: lime;
     font-color: black;
-    font-weight: bold;
+    font-weight:bolder;
 }
