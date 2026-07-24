@@ -1,14 +1,15 @@
 .title {
     font-color: black;
     background-color: pink;
+    font-weight: lighter;
 }
 .title.special {
     font-color: white;
     background-color: pink;
+    font-weight: bolder;
 }
 #header {
-    background-color: white;
-    font-color: blue;
+    color: blue;
 }
 #title {
     background-color: lime;
