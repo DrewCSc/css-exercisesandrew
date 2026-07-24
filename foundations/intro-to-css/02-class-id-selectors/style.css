@@ -1,8 +1,17 @@
 .title {
     font-color: black;
-    background-color: red;
+    background-color: pink;
 }
-.title .special {
+.title.special {
     font-color: white;
     background-color: pink;
+}
+#header {
+    background-color: white;
+    font-color: blue;
+}
+#title {
+    background-color: lime;
+    font-color: black;
+    font-weight: bold;
 }
