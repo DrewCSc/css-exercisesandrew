@@ -1,9 +1,8 @@
-#title {
-    background-color: green;
+.title {
+    font-color: black;
+    background-color: red;
 }
-div {
-
-}
-header {
-    background-color: white;
+.title .special {
+    font-color: white;
+    background-color: pink;
 }
